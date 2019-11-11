@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE glyphData [
+<!ELEMENT glyphData (glyph)+>
+<!ELEMENT glyph EMPTY>
+<!ATTLIST glyph
+	unicode			CDATA		#IMPLIED
+	unicodeLegecy	CDATA		#IMPLIED
+	name			CDATA		#REQUIRED
+	sortName		CDATA		#IMPLIED
+	sortNameKeep	CDATA		#IMPLIED
+	category		CDATA		#REQUIRED
+	subCategory		CDATA		#IMPLIED
+	script			CDATA		#IMPLIED
+	description		CDATA		#IMPLIED
+	production		CDATA		#IMPLIED
+	altNames		CDATA		#IMPLIED
+	decompose		CDATA		#IMPLIED
+	anchors			CDATA		#IMPLIED
+	accents			CDATA		#IMPLIED>
+]>
+<glyphData>
+	<glyph unicode="10FE0" name="aleph-elym" category="Letter" script="elymaic" production="u10FE0" direction="RTL" description="ELYMAIC LETTER ALEPH" />
+	<glyph unicode="10FE1" name="beth-elym" category="Letter" script="elymaic" production="u10FE1" direction="RTL" description="ELYMAIC LETTER BETH" />
+	<glyph unicode="10FE2" name="gimel-elym" category="Letter" script="elymaic" production="u10FE2" direction="RTL" description="ELYMAIC LETTER GIMEL" />
+	<glyph unicode="10FE3" name="daleth-elym" category="Letter" script="elymaic" production="u10FE3" direction="RTL" description="ELYMAIC LETTER DALETH" />
+	<glyph unicode="10FE4" name="he-elym" category="Letter" script="elymaic" production="u10FE4" direction="RTL" description="ELYMAIC LETTER HE" />
+	<glyph unicode="10FE5" name="waw-elym" category="Letter" script="elymaic" production="u10FE5" direction="RTL" description="ELYMAIC LETTER WAW" />
+	<glyph unicode="10FE6" name="zayin-elym" category="Letter" script="elymaic" production="u10FE6" direction="RTL" description="ELYMAIC LETTER ZAYIN" />
+	<glyph unicode="10FE7" name="heth-elym" category="Letter" script="elymaic" production="u10FE7" direction="RTL" description="ELYMAIC LETTER HETH" />
+	<glyph unicode="10FE8" name="teth-elym" category="Letter" script="elymaic" production="u10FE8" direction="RTL" description="ELYMAIC LETTER TETH" />
+	<glyph unicode="10FE9" name="yodh-elym" category="Letter" script="elymaic" production="u10FE9" direction="RTL" description="ELYMAIC LETTER YODH" />
+	<glyph unicode="10FEA" name="kaph-elym" category="Letter" script="elymaic" production="u10FEA" direction="RTL" description="ELYMAIC LETTER KAPH" />
+	<glyph unicode="10FEB" name="lamedh-elym" category="Letter" script="elymaic" production="u10FEB" direction="RTL" description="ELYMAIC LETTER LAMEDH" />
+	<glyph unicode="10FEC" name="mem-elym" category="Letter" script="elymaic" production="u10FEC" direction="RTL" description="ELYMAIC LETTER MEM" />
+	<glyph unicode="10FED" name="nun-elym" category="Letter" script="elymaic" production="u10FED" direction="RTL" description="ELYMAIC LETTER NUN" />
+	<glyph unicode="10FEE" name="samekh-elym" category="Letter" script="elymaic" production="u10FEE" direction="RTL" description="ELYMAIC LETTER SAMEKH" />
+	<glyph unicode="10FEF" name="ayin-elym" category="Letter" script="elymaic" production="u10FEF" direction="RTL" description="ELYMAIC LETTER AYIN" />
+	<glyph unicode="10FF0" name="pe-elym" category="Letter" script="elymaic" production="u10FF0" direction="RTL" description="ELYMAIC LETTER PE" />
+	<glyph unicode="10FF1" name="sadhe-elym" category="Letter" script="elymaic" production="u10FF1" direction="RTL" description="ELYMAIC LETTER SADHE" />
+	<glyph unicode="10FF2" name="qoph-elym" category="Letter" script="elymaic" production="u10FF2" direction="RTL" description="ELYMAIC LETTER QOPH" />
+	<glyph unicode="10FF3" name="resh-elym" category="Letter" script="elymaic" production="u10FF3" direction="RTL" description="ELYMAIC LETTER RESH" />
+	<glyph unicode="10FF4" name="shin-elym" category="Letter" script="elymaic" production="u10FF4" direction="RTL" description="ELYMAIC LETTER SHIN" />
+	<glyph unicode="10FF5" name="taw-elym" category="Letter" script="elymaic" production="u10FF5" direction="RTL" description="ELYMAIC LETTER TAW" />
+	<glyph unicode="10FF6" name="zayin_yodh-elym" category="Letter" subCategory="Ligature" script="elymaic" production="u10FF6" direction="RTL" description="ELYMAIC LIGATURE ZAYIN-YODH" />
+</glyphData>
